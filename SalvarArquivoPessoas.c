@@ -77,7 +77,7 @@ int main(){
 	Arvore * a = NULL;
 
 	
-	Pessoa p1 = {"Rafael", 31, "444.333.222-11"};
+	Pessoa p1 = {"Rafael", 31, "555.666.777-88"};
 	Pessoa p2 = {"Thiago", 14, "123.456.789-09"};
 	Pessoa p3 = {"Maria", 51, "987.654.321-00"};
 	Pessoa p4 = {"Guilherme", 87, "111.222.333-44"};
@@ -97,4 +97,4 @@ int main(){
 	
 	return 0;
 }
-// referencia utilizada para arquivos(FILES) https://www.youtube.com/watch?v=Bi6kP0vwH0c  1 min de video top :)//
+// referencia https://www.youtube.com/watch?v=Bi6kP0vwH0c //
